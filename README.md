@@ -121,8 +121,7 @@ It contains the following features:
 ### **1️⃣ Clone Repository**
 
 ```bash
-git clone https://github.com/your-username/student-performance-prediction.git
-cd student-performance-prediction
+git clone https://github.com/snehith143/StudentInsight/tree/main
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -223,7 +222,3 @@ Released under the **MIT License**.
 
 **Your Name**
 GitHub: [https://github.com/your-username](https://github.com/snehith143)
-
----
-
-If you want **badges**, **screenshots**, or a **GitHub banner**, just tell me — I will generate them!
